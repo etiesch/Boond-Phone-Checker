@@ -1,6 +1,8 @@
 # Boond Phone Checker
 A simple desktop utility to quickly look up contact information from a Boond Manager CSV export using a full or partial phone number.
 
+![screenshot](screenshot.png)
+
 This tool loads contact data from a user-selected CSV file, automatically handling various phone number formats and detecting if the CSV headers are in English or French. Search results include the contact's details and a direct link to their Boond profile.
 
 ## Setup & Usage
